@@ -19,7 +19,7 @@
     }
   ],
   "splash_pages": null,
-  "scope": "/",
+  "scope": "https://www.pyrotand.com/",
   "orientation": "any",
   "prefer_related_applications": false,
   "related_applications": [],
