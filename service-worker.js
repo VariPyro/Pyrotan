@@ -1,7 +1,7 @@
 const CACHE_NAME = 'my-cache-v1';
 
 const urlsToCache = [
-  '/',
+  'https://www.pyrotand.com/',
   '/index.html',
   '/styles.css',
   '/script.js',
